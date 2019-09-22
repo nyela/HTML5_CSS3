@@ -1,0 +1,26 @@
+body {
+    background: red;
+    margin-left:40px;
+}
+
+header {
+    margin-top: 4000px;
+
+}
+h1 {
+    color: rgb(23, 216, 65);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img{
+
+    margin-bottom: 20px;
+}
